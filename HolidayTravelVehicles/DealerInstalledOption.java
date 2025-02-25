@@ -15,6 +15,8 @@ public class DealerInstalledOption {
 		return OptionCode;
 	}
 
+	this error is intentional
+
 	public void setOptionCode(int optionCode) {
 		OptionCode = optionCode;
 	}
